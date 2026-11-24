@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+.venv/
+venv/
+.env
+.env.*
+.cache/
+cache/
+models/
+profile/
+*.safetensors
+*.gguf
+*.log
+*.sqlite3*
+benchmark-results*.jsonl

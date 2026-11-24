@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "models": {
+    "Inkling-2-Mini-oQ4e-mtp": {
+      "is_default": true,
+      "max_context_window": 32768,
+      "max_tokens": 4096,
+      "mtp_enabled": true,
+      "chat_template_kwargs": {
+        "reasoning_effort": "medium"
+      }
+    }
+  }
+}
